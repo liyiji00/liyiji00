@@ -1,4 +1,4 @@
-<pre lang='js'>while(alive) me.coding()</pre>
+<pre lang='js'>while(alive) me.coding() // 生命不息，coding不止</pre>
 <p align="center">
   <br/>
   <samp>
