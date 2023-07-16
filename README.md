@@ -4,8 +4,7 @@
   <samp>
     <span>A rookie front-end development: </span>
     <a href="https://llx.cool">home</a> |
-    <a href="https://llx.cool/posts">blog</a> |
-    <a href="https://llx.cool/projects">projects</a>
+    <a href="https://llx.cool/posts">blog</a>
   </samp>
 </p>
 
