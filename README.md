@@ -2,10 +2,12 @@
 <p>
   <br/>
   <samp>
-    <span>A rookie front-end development: </span>
     <a href="https://llx.cool">home</a> |
     <a href="https://llx.cool/posts">blog</a>
   </samp>
 </p>
 
-<pre lang='js'>while(alive) me.coding() // 生命不息，coding不止</pre>
+<pre lang='js'>
+// 无限进步
+while(alive) me.coding()
+</pre>
