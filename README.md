@@ -2,8 +2,8 @@
 <p>
   <br/>
   <samp>
-    <a href="https://llx.cool">home</a> |
-    <a href="https://llx.cool/posts">blog</a>
+    <a href="https://liyji00.github.io">home</a> |
+    <a href="https://liyji00.github.io/posts">blog</a>
   </samp>
 </p>
 
